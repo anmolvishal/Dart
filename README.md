@@ -1,10 +1,5 @@
 # Dart Programming Language
 ## Topics:-
-* Visiting Dart Official Website
-* Download and Install Dart SDK
-* Set PATH for Dart
-* Folder Setup in VS Code
-* Dart Extension for VS Code
 * Introduction to Dart
 * main Function
 * print Function
