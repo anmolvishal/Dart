@@ -90,8 +90,6 @@
 * pub Dart Package Manager - https://pub.dev
 * stagehand - A Dart Project Generator - 
 * Generate a Dart Project
-* Dart Official Doc - https://dart.dev/guides
-
 
 
 
