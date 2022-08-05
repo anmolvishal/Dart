@@ -11,7 +11,7 @@
 * Built-in Data Types
 * int
 * double
-* String
+* string
 * bool
 * var
 * Check Data Type
